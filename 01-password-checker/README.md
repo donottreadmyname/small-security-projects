@@ -9,6 +9,6 @@ My first small security tool . Checks if a password is strong.
 
 **How to run:**
 
-**Full write-up:** https://dang.hashnode.dev/password-checker-30-minutes
+**Full write-up:** https://dang.hashnode.dev/password-checker-python
 
 **What I learned:** regex, scoring system
