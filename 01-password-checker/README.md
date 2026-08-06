@@ -8,3 +8,7 @@ My first small security tool . Checks if a password is strong.
 - Not common password
 
 **How to run:**
+
+**Full write-up:** https://dang.hashnode.dev/password-checker-30-minutes
+
+**What I learned:** regex, scoring system
