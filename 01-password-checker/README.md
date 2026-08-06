@@ -9,6 +9,6 @@ My first small security tool . Checks if a password is strong.
 
 **How to run:**
 
-**Full write-up:** https://iot-security-lab.hashnode.dev/i-built-a-password-strength-checker-my-first-security-tool
+**Full write-up:** https://iot-security-lab.hashnode.dev/password-checker-python
 
 **What I learned:** regex, scoring system
