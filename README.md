@@ -1,6 +1,6 @@
 # Small Security Projects
 
-Learning security by building small tools. 1 laptop, dormitory.
+Learning security by building small tools.
 
 **Workflow:** GitHub = code + overview, Hashnode = detailed write-up
 
